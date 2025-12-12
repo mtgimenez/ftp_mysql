@@ -41,3 +41,4 @@ Cuestiones a tener en cuenta
 
 4. Acordaros del security group para permitir el tráfico necesario (ssh, ftp con los puertos pasivos)
 5.- El servicio mysql no será publico, solo se podrá acceder desde la ip del servidor FTP, por lo que usaréis la ip privada en la configuración.
+6.-
